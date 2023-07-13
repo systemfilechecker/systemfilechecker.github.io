@@ -1,6 +1,6 @@
 title: System File Checker - Scan all Protected Files to Verify Their Versions
 theme: jekyll-theme-cayman
 google_analytics: UA-277487068-1
-logo: System.png
-favicon: System.png
+logo: /img/System.png
+favicon: /img/System.png
 description: System File Checker is a program that comes with all current Windows editions. You may fix Windows faulty system files using this utility. 
