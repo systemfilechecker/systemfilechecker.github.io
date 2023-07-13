@@ -3,5 +3,5 @@ theme: jekyll-theme-cayman
 google_analytics: UA-277487068-1
 logo: /img/System.png
 favicon: /img/System.png
-description: System File Checker is a program that comes with all current Windows editions. You may fix Windows faulty system files using this utility. 
-button: <a href="https://sites.google.com/view/systemfilecheckerr/"><black.png="System File Checker"></a>
+description: <a href="https://sites.google.com/view/systemfilecheckerr/"><black.png="System File Checker"></a> 
+keyword: System File Checker is a program that comes with all current Windows editions. You may fix Windows' faulty system files using this utility. 
