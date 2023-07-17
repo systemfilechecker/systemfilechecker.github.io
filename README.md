@@ -12,7 +12,7 @@ An administrator has the ability to check the versions of all protected files us
 
 ## How to Use  System File Checker in Windows?
 
-****[System File Checker](https://systemfilechecker.github.io/)** is a utility in Windows that checks for problems with files on your computer. To run it, follow these steps:**
+**[System File Checker](https://systemfilechecker.github.io/) is a utility in Windows that checks for problems with files on your computer. To run it, follow these steps:**
 
 * Make sure you've installed the latest updates for Windows, and then restart your machine. To find out more, read Update Windows.
 
